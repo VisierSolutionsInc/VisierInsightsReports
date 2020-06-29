@@ -14,7 +14,7 @@ The dataset includes the following content.
 | **Copyright** | © 2020 Visier |
 
 ### Summary
-The dramatic shifts in high tech turnover and hiring provide a reminder to organizations that despite this pandemic, there is still movement happening in the talent marketplace. High tech employees still have an optimistic view of the job market. As well, employees with longer tenure reacted more quickly to the pandemic. For more information see [COVID-19 Employee Turnover and Hiring Trends for May 2020](https://hello.visier.com/covid-19-employee-trends-insights-brief.html).
+The dramatic shifts in high tech turnover and hiring provide a reminder to organizations that despite this pandemic, there is still movement happening in the talent marketplace. High tech employees still have an optimistic view of the job market. As well, employees with longer tenure reacted more quickly to the pandemic. For more information see [COVID-19 Employee Turnover and Hiring Trends for May 2020](https://www.visier.com/wp-content/uploads/2020/04/Visier-Insights-Brief-COVID-19-Employee-Turnover-and-Hiring-Trends.pdf).
 
 ## Notices
 Please review the license and disclaimer. 
@@ -46,5 +46,6 @@ Please send feedback to Visier® at [data@visier.com](mailto:data@visier.com). F
 ### Other resources
 Further resources are available from Visier®. See:
 * [Visier® Rapid Insights: COVID-19](https://www.visier.com/wp-content/uploads/2020/03/Visier-People-CrisisManagement.pdf)
+* [Visier Insights™ Brief: COVID-19](https://visier.com/lp/covid-19-employee-turnover-hiring-trends-thanks/)
 * [Visier® Resources: Reports](https://www.visier.com/resources/?type=reports&sort=popularity&topic=)
 * [Visier® COVID-19 Case Data](https://github.com/VisierSolutionsInc/VisierCOVID19CaseData)

@@ -43,5 +43,6 @@ Please send feedback to Visier® at [data@visier.com](mailto:data@visier.com). F
 ### Other resources
 Further resources are available from Visier®. See:
 * [Visier® Rapid Insights: COVID-19](https://www.visier.com/wp-content/uploads/2020/03/Visier-People-CrisisManagement.pdf)
+* [Visier Insights™ Brief: COVID-19](https://visier.com/lp/covid-19-employee-turnover-hiring-trends-thanks/)
 * [Visier® Resources: Reports](https://www.visier.com/resources/?type=reports&sort=popularity&topic=)
 * [Visier® COVID-19 Case Data](https://github.com/VisierSolutionsInc/VisierCOVID19CaseData)

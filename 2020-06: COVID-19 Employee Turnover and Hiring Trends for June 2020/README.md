@@ -14,7 +14,7 @@ The dataset includes the following content.
 | **Copyright** | © 2020 Visier |
 
 ### Summary
-As countries around the globe begin to reopen their economies, this month’s report reveals the first potential signs of recovery for employees and companies. We dive into the significant differences in the recovery for male and female employees, as well as different age groups. For more information see [COVID-19 Employee Turnover and Hiring Trends for June 2020](https://hello.visier.com/covid-19-employee-trends-insights-brief.html).
+As countries around the globe begin to reopen their economies, this month’s report reveals the first potential signs of recovery for employees and companies. We dive into the significant differences in the recovery for male and female employees, as well as different age groups. For more information see [COVID-19 Employee Turnover and Hiring Trends for June 2020](https://www.visier.com/wp-content/uploads/2020/06/VisierInsights-COVID19-June2020.pdf).
 
 ## Notices
 Please review the license and disclaimer. 
@@ -46,5 +46,6 @@ Please send feedback to Visier® at [data@visier.com](mailto:data@visier.com). F
 ### Other resources
 Further resources are available from Visier®. See:
 * [Visier® Rapid Insights: COVID-19](https://www.visier.com/wp-content/uploads/2020/03/Visier-People-CrisisManagement.pdf)
+* [Visier Insights™ Brief: COVID-19](https://visier.com/lp/covid-19-employee-turnover-hiring-trends-thanks/)
 * [Visier® Resources: Reports](https://www.visier.com/resources/?type=reports&sort=popularity&topic=)
 * [Visier® COVID-19 Case Data](https://github.com/VisierSolutionsInc/VisierCOVID19CaseData)
