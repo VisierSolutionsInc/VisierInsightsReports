@@ -9,6 +9,7 @@ The dataset includes the following content.
 | :---: | --- |
 | **Folder** | 2020-05: COVID-19 Employee Turnover and Hiring Trends for May 2020 |
 | **Folder** | 2020-06: COVID-19 Employee Turnover and Hiring Trends for June 2020 |
+| **Folder** | 2020-07: COVID-19 Employee Turnover and Hiring Trends for July 2020 |
 | **Copyright** | © 2020 Visier |
 
 ## Sources
